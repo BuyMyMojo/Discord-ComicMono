@@ -1,0 +1,8 @@
+{
+    "name": "Comic Mono",
+    "description": "A simple discord theme which makes the app use Comic Mono",
+    "version": "1.0",
+    "author": "BuyMyMojo#0308",
+    "theme": "comicmono.theme.css",
+    "license": "MIT"
+}
