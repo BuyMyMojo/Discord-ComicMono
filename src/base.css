@@ -2,14 +2,14 @@
 
 @font-face {
     font-family: 'Comic Mono';
-    src: url('https://github.com/BuyMyMojo/Discord-ComicMono/raw/main/src/font/ComicMono.woff');
+    src: url('https://buymymojo.github.io/Discord-ComicMono/src/font/ComicMono.woff');
     font-style: normal;
     font-weight: normal;
 }
 
 @font-face {
 	font-family: 'Comic Mono';
-	src: url('https://github.com/BuyMyMojo/Discord-ComicMono/raw/main/src/font/ComicMono-Bold.woff');
+	src: url('https://buymymojo.github.io/Discord-ComicMono/src/font/ComicMono-Bold.woff');
 	font-weight: bold;
 	font-style: normal;
 } 

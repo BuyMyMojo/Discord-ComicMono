@@ -33,5 +33,5 @@
 
 # Credits
 
--   [ComicMono font](https://github.com/lukxee2/ComicMonoFonts)
--   [discord-dyslexia](https://github.com/DiscordStyles/discord-dyslexia)
+-   [ComicMono font](https://github.com/lukxee2/ComicMonoFonts) - The font used.
+-   [discord-dyslexia](https://github.com/DiscordStyles/discord-dyslexia) - This repo was made by moifying their repo!
